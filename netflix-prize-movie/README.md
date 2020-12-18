@@ -7,5 +7,5 @@ __Data__
 	- __over 17K movies and 500K+ customers__
 
 __Recommendation models__
-	- Recommend with Collaborative Filtering
-	- Recommend with Pearsons' R correlation
+- Recommend with Collaborative Filtering
+- Recommend with Pearsons' R correlation
