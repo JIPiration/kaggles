@@ -9,5 +9,5 @@ __Data__
 __Recommendation models__
 
 netflix-movie-recommendation.ipynb
-	- Recommend with Collaborative Filtering
-	- Recommend with Pearsons' R correlation
+- Recommend with Collaborative Filtering
+- Recommend with Pearsons' R correlation
