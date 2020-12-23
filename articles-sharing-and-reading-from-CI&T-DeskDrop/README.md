@@ -17,4 +17,5 @@ DeskDrop Articles Topic Modeling](https://www.kaggle.com/gspmoreira/deskdrop-art
 - Popularity Model
 - Content-based Filtering Model
 - Collaborative Filtering Model
+- Hybrid Model(CBF + CF)
 - Testing
