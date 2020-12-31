@@ -20,6 +20,12 @@ film-recommendation-engine.ipynb
 
 movie-recommender-systems.ipynb
 > This repository contains material related to [Movie Recommender Systems](https://www.kaggle.com/rounakbanik/movie-recommender-systems)
+- Simple Recommender
+- Content Based Recommender
+- Collaborative Filtering
+- Hybrid Engine
+
+
 
 cf-based-recsys-by-low-rank-matrix-factorization.ipynb
 > This repository contains material related to [CF Based RecSys by Low Rank Matrix Factorization](https://www.kaggle.com/rajmehra03/cf-based-recsys-by-low-rank-matrix-factorization)
