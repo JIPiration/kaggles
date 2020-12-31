@@ -18,8 +18,6 @@ film-recommendation-engine.ipynb
 > This repository contains material related to [Film recommendation engine](https://www.kaggle.com/fabiendaniel/film-recommendation-engine)
 
 
-
-
 movie-recommender-systems.ipynb
 > This repository contains material related to [Movie Recommender Systems](https://www.kaggle.com/rounakbanik/movie-recommender-systems)
 
