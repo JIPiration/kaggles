@@ -1,8 +1,7 @@
 # __Recommendation__
 
 __Dataset__
-- the movie dataset
-- TMDB 5000 Movie Dataset
+- [Book-Crossing Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
 
 __Recommendation models__
 
