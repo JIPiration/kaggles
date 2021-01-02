@@ -29,5 +29,12 @@ movie-recommender-systems.ipynb
 
 cf-based-recsys-by-low-rank-matrix-factorization.ipynb
 > This repository contains material related to [CF Based RecSys by Low Rank Matrix Factorization](https://www.kaggle.com/rajmehra03/cf-based-recsys-by-low-rank-matrix-factorization)
+- Collaborative Filtering Based Recommender System
+  - Low Rank Matrix Factorization(User & Movie Embeddings)
+  - Neural Network in Keras
+  
+<br>
+other related notebook
+
 - a-detailed-explanation-of-keras-embedding-layer.ipynb
-  > This repository contains material related to [A Detailed Explanation of Keras Embedding Layer](https://www.kaggle.com/rajmehra03/a-detailed-explanation-of-keras-embedding-layer)
+> This repository contains material related to [A Detailed Explanation of Keras Embedding Layer](https://www.kaggle.com/rajmehra03/a-detailed-explanation-of-keras-embedding-layer)
