@@ -33,6 +33,6 @@ cf-based-recsys-by-low-rank-matrix-factorization.ipynb
   - Low Rank Matrix Factorization(User & Movie Embeddings)
   - Neural Network in Keras
 
-- related notebook
+- other related notebook
   - a-detailed-explanation-of-keras-embedding-layer.ipynb 
   > This repository contains material related to [A Detailed Explanation of Keras Embedding Layer](https://www.kaggle.com/rajmehra03/a-detailed-explanation-of-keras-embedding-layer)
